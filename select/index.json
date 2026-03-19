@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "黒猫 ～Adult Black Cat～ ～2025 ver.～",
+  "base_artist": "Acid Black Cherry",
+  "createdAt": "2026-03-19T14:15:51.310379Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "黒猫",
+      "artist": "人間椅子",
+      "has_synced": false,
+      "path": "select/01_黒猫_人間椅子.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "黒猫 〜Adult Black Cat〜",
+      "artist": "Acid Black Cherry",
+      "has_synced": true,
+      "path": "select/02_黒猫_〜Adult_Black_Cat〜_Acid_Black_Cherry.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "黒猫 〜Adult Black Cat〜",
+      "artist": "Acid Black Cherry",
+      "has_synced": true,
+      "path": "select/03_黒猫_〜Adult_Black_Cat〜_Acid_Black_Cherry.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "黒猫",
+      "artist": "ダズビー",
+      "has_synced": true,
+      "path": "select/04_黒猫_ダズビー.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "黒猫 ～Adult Black Cat～",
+      "artist": "Acid Black Cherry",
+      "has_synced": true,
+      "path": "select/05_黒猫_~Adult_Black_Cat~_Acid_Black_Cherry.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "黒猫",
+      "artist": "DAZBEE",
+      "has_synced": true,
+      "path": "select/06_黒猫_DAZBEE.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "黒猫 - KURONEKO",
+      "artist": "DAZBEE",
+      "has_synced": true,
+      "path": "select/07_黒猫_-_KURONEKO_DAZBEE.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "黒猫 (Cover)",
+      "artist": "DAZBEE",
+      "has_synced": true,
+      "path": "select/08_黒猫_(Cover)_DAZBEE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "黒猫～Adult Black Cat～",
+      "artist": "Acid Black Cherry",
+      "has_synced": false,
+      "path": "select/pl_01_黒猫~Adult_Black_Cat~_Acid_Black_Cherry.txt"
+    }
+  ]
+}
